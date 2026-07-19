@@ -27,9 +27,7 @@
   "gameTypes": [
     "Minigames",
     "PvP",
-    "Casual",
-    "Practice",
-    "UHC"
+    "Casual"
   ],
   "primaryGameType": "Minigames",
   "website": "https://www.swacrew.net/",
